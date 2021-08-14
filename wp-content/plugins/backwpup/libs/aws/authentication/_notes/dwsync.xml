@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="signable.interface.php" server="ftp.ierisl.com" local="129926947167907178" remote="129955684200000000" />
+<file name="signature_v2query.class.php" server="ftp.ierisl.com" local="129926947167937178" remote="129955684200000000" />
+<file name="signature_v3json.class.php" server="ftp.ierisl.com" local="129926947167987178" remote="129955684200000000" />
+<file name="signature_v3query.class.php" server="ftp.ierisl.com" local="129926947168027178" remote="129955684200000000" />
+<file name="signature_v4json.class.php" server="ftp.ierisl.com" local="129926947168067178" remote="129955684200000000" />
+<file name="signature_v4query.class.php" server="ftp.ierisl.com" local="129926947168107178" remote="129955684200000000" />
+<file name="signer.abstract.php" server="ftp.ierisl.com" local="129926947168137178" remote="129955684200000000" />
+</dwsync>

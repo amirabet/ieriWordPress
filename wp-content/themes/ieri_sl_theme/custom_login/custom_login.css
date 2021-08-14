@@ -1,0 +1,11 @@
+body.login {background-color:#e5fcff!important;}
+.login #login h1{	padding-top:75px;	background: url(custom_logo.jpg) no-repeat 0 0;}
+.login #login h1 a{display:none;}
+.login .message{ background-color:#f3feff; border-color:#b6ecf4; color:#777; text-shadow:-1px -1px 0 #FFF;}
+.login form{border-color:#b6ecf4;}
+.login form .input{border-color:#b6ecf4; background-color:#e5fcff; color:#999;}
+.login form .input:focus{border-color:#58bfcf; background-color:#f3feff; color:#333;}
+.login input.button-primary, .login button.button-primary, .login a.button-primary{ background-image:none; background-color:#58bfcf; color:#333; text-shadow:1px 1px 0 #69e4f7; -webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
+.login input.button-primary:hover, .login button.button-primary:hover, .login a.button-primary:hover{ background-color:#4495a1; color:#000; text-shadow:1px 1px 0 #52b3c2;}
+.login #nav a, .login #nav a:visited, .login #backtoblog a, .login #backtoblog a:visited{color:#777!important; text-decoration:none;}
+.login #nav a:hover, .login #nav a:active, .login #backtoblog a:hover, .login #backtoblog a:active{color:#222!important; text-decoration:none;}

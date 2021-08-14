@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigurationDataSources.php" server="ftp.ierisl.com" local="129926945908167178" remote="129955698000000000" />
+<file name="ConfigurationDiagnosticInfrastructureLogs.php" server="ftp.ierisl.com" local="129926945908207178" remote="129955698000000000" />
+<file name="ConfigurationDirectories.php" server="ftp.ierisl.com" local="129926945908267178" remote="129955698000000000" />
+<file name="ConfigurationInstance.php" server="ftp.ierisl.com" local="129926945908307178" remote="129955698000000000" />
+<file name="ConfigurationLogs.php" server="ftp.ierisl.com" local="129926945908347178" remote="129955698000000000" />
+<file name="ConfigurationObjectBaseAbstract.php" server="ftp.ierisl.com" local="129926945908377178" remote="129955698000000000" />
+<file name="ConfigurationPerformanceCounters.php" server="ftp.ierisl.com" local="129926945908417178" remote="129955698000000000" />
+<file name="ConfigurationWindowsEventLog.php" server="ftp.ierisl.com" local="129926945908447178" remote="129955698600000000" />
+<file name="DirectoryConfigurationSubscription.php" server="ftp.ierisl.com" local="129926945908487178" remote="129955698600000000" />
+<file name="Exception.php" server="ftp.ierisl.com" local="129926945908517178" remote="129955698600000000" />
+<file name="index.html" server="ftp.ierisl.com" local="129926945908527178" remote="129955698600000000" />
+<file name="LogLevel.php" server="ftp.ierisl.com" local="129926945908557178" remote="129955698600000000" />
+<file name="Manager.php" server="ftp.ierisl.com" local="129926945908597178" remote="129955698600000000" />
+<file name="PerformanceCounterSubscription.php" server="ftp.ierisl.com" local="129926945908627178" remote="129955698600000000" />
+</dwsync>

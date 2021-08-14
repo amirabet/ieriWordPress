@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="backup_create.php" server="ftp.ierisl.com" local="129926947166227178" remote="129955683600000000" />
+<file name="db_check.php" server="ftp.ierisl.com" local="129926947166257178" remote="129955683600000000" />
+<file name="db_dump.php" server="ftp.ierisl.com" local="129926947166307178" remote="129955683600000000" />
+<file name="db_optimize.php" server="ftp.ierisl.com" local="129926947166337178" remote="129955683600000000" />
+<file name="dest_dropbox.php" server="ftp.ierisl.com" local="129926947166367178" remote="129955683600000000" />
+<file name="dest_folder.php" server="ftp.ierisl.com" local="129926947166397178" remote="129955683600000000" />
+<file name="dest_ftp.php" server="ftp.ierisl.com" local="129926947166437178" remote="129955683600000000" />
+<file name="dest_gstorage.php" server="ftp.ierisl.com" local="129926947166467178" remote="129955683600000000" />
+<file name="dest_mail.php" server="ftp.ierisl.com" local="129926947166497178" remote="129955683600000000" />
+<file name="dest_msazure.php" server="ftp.ierisl.com" local="129926947166527178" remote="129955683600000000" />
+<file name="dest_rsc.php" server="ftp.ierisl.com" local="129926947166557178" remote="129955683600000000" />
+<file name="dest_s3.php" server="ftp.ierisl.com" local="129926947166587178" remote="129955683600000000" />
+<file name="dest_sugarsync.php" server="ftp.ierisl.com" local="129926947166617178" remote="129955683600000000" />
+<file name="file_list.php" server="ftp.ierisl.com" local="129926947166657178" remote="129955683600000000" />
+<file name="job_functions.php" server="ftp.ierisl.com" local="129926947166747178" remote="129955683600000000" />
+<file name="job_run.php" server="ftp.ierisl.com" local="129926947166787178" remote="129955683600000000" />
+<file name="job_start.php" server="ftp.ierisl.com" local="129926947166867178" remote="129955683600000000" />
+<file name="show_working.php" server="ftp.ierisl.com" local="129926947166907178" remote="129955683600000000" />
+<file name="wp_export.php" server="ftp.ierisl.com" local="129926947166947178" remote="129955683600000000" />
+<file name="wp_export_generate.php" server="ftp.ierisl.com" local="129926947166977178" remote="129955683600000000" />
+</dwsync>

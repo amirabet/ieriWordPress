@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Batch.php" server="ftp.ierisl.com" local="129926945909037178" remote="129955698600000000" />
+<file name="BatchStorageAbstract.php" server="ftp.ierisl.com" local="129926945909067178" remote="129955698600000000" />
+<file name="Blob.php" server="ftp.ierisl.com" local="129926945909227178" remote="129955698600000000" />
+<file name="BlobContainer.php" server="ftp.ierisl.com" local="129926945909257178" remote="129955698600000000" />
+<file name="BlobInstance.php" server="ftp.ierisl.com" local="129926945909297178" remote="129955698600000000" />
+<file name="DynamicTableEntity.php" server="ftp.ierisl.com" local="129926945909347178" remote="129955698600000000" />
+<file name="index.html" server="ftp.ierisl.com" local="129926945909367178" remote="129955698600000000" />
+<file name="LeaseInstance.php" server="ftp.ierisl.com" local="129926945909407178" remote="129955698600000000" />
+<file name="PageRegionInstance.php" server="ftp.ierisl.com" local="129926945909437178" remote="129955698600000000" />
+<file name="Queue.php" server="ftp.ierisl.com" local="129926945909477178" remote="129955698600000000" />
+<file name="QueueInstance.php" server="ftp.ierisl.com" local="129926945909507178" remote="129955698600000000" />
+<file name="QueueMessage.php" server="ftp.ierisl.com" local="129926945909547178" remote="129955698600000000" />
+<file name="SignedIdentifier.php" server="ftp.ierisl.com" local="129926945909567178" remote="129955698600000000" />
+<file name="StorageEntityAbstract.php" server="ftp.ierisl.com" local="129926945909597178" remote="129955698600000000" />
+<file name="Table.php" server="ftp.ierisl.com" local="129926945909647178" remote="129955698600000000" />
+<file name="TableEntity.php" server="ftp.ierisl.com" local="129926945909687178" remote="129955698600000000" />
+<file name="TableEntityQuery.php" server="ftp.ierisl.com" local="129926945909727178" remote="129955698600000000" />
+<file name="TableInstance.php" server="ftp.ierisl.com" local="129926945909757178" remote="129955698600000000" />
+</dwsync>

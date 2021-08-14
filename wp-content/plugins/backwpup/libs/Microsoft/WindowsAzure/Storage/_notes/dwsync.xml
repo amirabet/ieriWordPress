@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Batch.php" server="ftp.ierisl.com" local="129926947177357178" remote="129955684800000000" />
+<file name="BatchStorageAbstract.php" server="ftp.ierisl.com" local="129926947177387178" remote="129955684800000000" />
+<file name="Blob.php" server="ftp.ierisl.com" local="129926947177577178" remote="129955685400000000" />
+<file name="BlobContainer.php" server="ftp.ierisl.com" local="129926947177617178" remote="129955685400000000" />
+<file name="BlobInstance.php" server="ftp.ierisl.com" local="129926947177647178" remote="129955685400000000" />
+<file name="DynamicTableEntity.php" server="ftp.ierisl.com" local="129926947177687178" remote="129955685400000000" />
+<file name="LeaseInstance.php" server="ftp.ierisl.com" local="129926947177717178" remote="129955685400000000" />
+<file name="PageRegionInstance.php" server="ftp.ierisl.com" local="129926947177747178" remote="129955685400000000" />
+<file name="Queue.php" server="ftp.ierisl.com" local="129926947177797178" remote="129955685400000000" />
+<file name="QueueInstance.php" server="ftp.ierisl.com" local="129926947177837178" remote="129955685400000000" />
+<file name="QueueMessage.php" server="ftp.ierisl.com" local="129926947177867178" remote="129955685400000000" />
+<file name="SignedIdentifier.php" server="ftp.ierisl.com" local="129926947177897178" remote="129955685400000000" />
+<file name="StorageEntityAbstract.php" server="ftp.ierisl.com" local="129926947177937178" remote="129955685400000000" />
+<file name="Table.php" server="ftp.ierisl.com" local="129926947177997178" remote="129955685400000000" />
+<file name="TableEntity.php" server="ftp.ierisl.com" local="129926947178047178" remote="129955685400000000" />
+<file name="TableEntityQuery.php" server="ftp.ierisl.com" local="129926947178087178" remote="129955685400000000" />
+<file name="TableInstance.php" server="ftp.ierisl.com" local="129926947178117178" remote="129955685400000000" />
+</dwsync>

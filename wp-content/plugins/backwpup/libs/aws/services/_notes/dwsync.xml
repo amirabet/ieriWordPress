@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="as.class.php" server="ftp.ierisl.com" local="129926947170057178" remote="129955684200000000" />
+<file name="cloudformation.class.php" server="ftp.ierisl.com" local="129926947170137178" remote="129955684200000000" />
+<file name="cloudfront.class.php" server="ftp.ierisl.com" local="129926947170277178" remote="129955684200000000" />
+<file name="cloudsearch.class.php" server="ftp.ierisl.com" local="129926947170367178" remote="129955684200000000" />
+<file name="cloudwatch.class.php" server="ftp.ierisl.com" local="129926947170537178" remote="129955684200000000" />
+<file name="dynamodb.class.php" server="ftp.ierisl.com" local="129926947170627178" remote="129955684200000000" />
+<file name="ec2.class.php" server="ftp.ierisl.com" local="129926947170847178" remote="129955684200000000" />
+<file name="elasticache.class.php" server="ftp.ierisl.com" local="129926947170917178" remote="129955684200000000" />
+<file name="elasticbeanstalk.class.php" server="ftp.ierisl.com" local="129926947171007178" remote="129955684200000000" />
+<file name="elb.class.php" server="ftp.ierisl.com" local="129926947171077178" remote="129955684200000000" />
+<file name="emr.class.php" server="ftp.ierisl.com" local="129926947171137178" remote="129955684200000000" />
+<file name="iam.class.php" server="ftp.ierisl.com" local="129926947171307178" remote="129955684200000000" />
+<file name="importexport.class.php" server="ftp.ierisl.com" local="129926947171347178" remote="129955684200000000" />
+<file name="rds.class.php" server="ftp.ierisl.com" local="129926947171437178" remote="129955684200000000" />
+<file name="s3.class.php" server="ftp.ierisl.com" local="129926947171587178" remote="129955684200000000" />
+<file name="sdb.class.php" server="ftp.ierisl.com" local="129926947171647178" remote="129955684200000000" />
+<file name="ses.class.php" server="ftp.ierisl.com" local="129926947171707178" remote="129955684800000000" />
+<file name="sns.class.php" server="ftp.ierisl.com" local="129926947171807178" remote="129955684800000000" />
+<file name="sqs.class.php" server="ftp.ierisl.com" local="129926947171877178" remote="129955684800000000" />
+<file name="storagegateway.class.php" server="ftp.ierisl.com" local="129926947171947178" remote="129955684800000000" />
+<file name="sts.class.php" server="ftp.ierisl.com" local="129926947171987178" remote="129955684800000000" />
+<file name="swf.class.php" server="ftp.ierisl.com" local="129926947172107178" remote="129955684800000000" />
+</dwsync>

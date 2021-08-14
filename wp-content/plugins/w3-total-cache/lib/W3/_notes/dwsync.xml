@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cache.php" server="ftp.ierisl.com" local="129926945914297178" remote="129955699200000000" />
+<file name="Cdn.php" server="ftp.ierisl.com" local="129926945915487178" remote="129955699800000000" />
+<file name="CloudFlare.php" server="ftp.ierisl.com" local="129926945915547178" remote="129955699800000000" />
+<file name="Config.php" server="ftp.ierisl.com" local="129926945915947178" remote="129955700400000000" />
+<file name="Db.php" server="ftp.ierisl.com" local="129926945916737178" remote="129955700400000000" />
+<file name="index.html" server="ftp.ierisl.com" local="129926945916757178" remote="129955700400000000" />
+<file name="Minifier.php" server="ftp.ierisl.com" local="129926945916917178" remote="129955700400000000" />
+<file name="Minify.php" server="ftp.ierisl.com" local="129926945917127178" remote="129955701000000000" />
+<file name="Mobile.php" server="ftp.ierisl.com" local="129926945917187178" remote="129955701000000000" />
+<file name="ObjectCache.php" server="ftp.ierisl.com" local="129926945917327178" remote="129955701000000000" />
+<file name="PageSpeed.php" server="ftp.ierisl.com" local="129926945917397178" remote="129955701000000000" />
+<file name="PgCache.php" server="ftp.ierisl.com" local="129926945917517178" remote="129955701000000000" />
+<file name="PgCacheFlush.php" server="ftp.ierisl.com" local="129926945917607178" remote="129955701000000000" />
+<file name="Plugin.php" server="ftp.ierisl.com" local="129926945920027178" remote="129955701000000000" />
+<file name="PluginProxy.php" server="ftp.ierisl.com" local="129926945920087178" remote="129955701000000000" />
+<file name="Redirect.php" server="ftp.ierisl.com" local="129926945920127178" remote="129955701000000000" />
+<file name="Referrer.php" server="ftp.ierisl.com" local="129926945920197178" remote="129955701000000000" />
+<file name="Request.php" server="ftp.ierisl.com" local="129926945920247178" remote="129955701000000000" />
+<file name="Varnish.php" server="ftp.ierisl.com" local="129926945920297178" remote="129955701000000000" />
+</dwsync>
